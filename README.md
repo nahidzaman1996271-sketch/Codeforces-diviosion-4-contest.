@@ -1,4 +1,5 @@
 # Codeforces-diviosion-4-contest.[Codeforces contest problem.cpp](https://github.com/user-attachments/files/24696571/Codeforces.contest.problem.cpp)
+![WhatsApp Image 2026-01-18 at 8 49 22 PM](https://github.com/user-attachments/assets/54c7fcc2-85ea-4c64-90f6-dc0512a003c7)
 
 #include <iostream>
 using namespace std;
